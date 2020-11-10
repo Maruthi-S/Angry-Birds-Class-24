@@ -1,2 +1,2 @@
-# Angry-Birds-Class-24
-Block model
+# p5.play-boilerplate
+Boiler plate for p5.play
